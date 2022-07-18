@@ -1,4 +1,7 @@
-.idea
-backup
-node_modules
-dist/index.html
+*
+
+!dist/bundle.js
+!package.json
+!package-lock.json
+!webpack.config.js
+!.gitignore
